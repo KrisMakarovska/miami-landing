@@ -1,6 +1,6 @@
 # Miami landing page
 
-Responsive landing page for Miami with catalog and submit form.
+Responsive landing page for Miami Kondo Kings with catalog and submit form.
 
 Technologies/methodologies used:
 - HTML (semantic tags, grid, form),
